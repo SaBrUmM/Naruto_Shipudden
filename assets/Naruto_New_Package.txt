@@ -1,0 +1,19 @@
+Naruto_New_Package.png
+size: 1680, 160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+naruto
+  rotate: false
+  xy: 0, 0
+  size: 1680, 80
+  orig: 1680, 80
+  offset: 0, 0
+  index: -1
+Orochimaru
+  rotate: false
+  xy: 0, 80
+  size: 800, 80
+  orig: 800, 80
+  offset: 0, 0
+  index: -1
